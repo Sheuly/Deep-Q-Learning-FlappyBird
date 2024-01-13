@@ -1,4 +1,4 @@
-## BreadcrumbsDeep-Q-Learning-FlappyBird
+## Deep-Q-Learning-FlappyBird
 ### Installation: On windows 10
 * install Python 3.10+ version on the system. I have installed Python 3.10.8 on my system.
 * restart system.
@@ -12,12 +12,12 @@
 * install spyder editor
 
 #### In my case:
--D:
--cd D:\Personal\BHTstudy\software project\PracticeCopy_BHT_advanced_software_engineering_WiSe23main\DeepQLearn_FlappyBird
--python -m venv .venv
--.venv\Scripts\activate.bat
--pip install -r requirements.txt
--pip install spyder
+-D:  
+-cd D:\Personal\BHTstudy\software project\PracticeCopy_BHT_advanced_software_engineering_WiSe23main\DeepQLearn_FlappyBird  
+-python -m venv .venv  
+-.venv\Scripts\activate.bat  
+-pip install -r requirements.txt  
+-pip install spyder  
 
 ### Launch:
 * go to the project directory.
@@ -25,10 +25,10 @@
 * launch spyder.
 
 #### In my case:
--D:
--cd D:\Personal\BHTstudy\software project\PracticeCopy_BHT_advanced_software_engineering_WiSe23-main\DeepQLearn_FlappyBird
--.venv\Scripts\activate.bat
--spyder
+-D:  
+-cd D:\Personal\BHTstudy\software project\PracticeCopy_BHT_advanced_software_engineering_WiSe23-main\DeepQLearn_FlappyBird  
+-.venv\Scripts\activate.bat  
+-spyder  
 
 ### Test Result:
 -test outputs are provided in the 'video_file_for_submission' folder
